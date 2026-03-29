@@ -1,0 +1,28 @@
+# Task 5 – Cybercrime Prevention Checklist
+
+## 🛡️ Stay Safe Online
+
+### 🔐 General Safety Tips
+- Never share OTP, passwords, or UPI PIN with anyone.
+- Do not click on unknown links received via SMS, email, or WhatsApp.
+- Always verify official websites before entering personal details.
+- Avoid installing unknown apps or screen-sharing apps on request.
+- Use strong and unique passwords for all accounts.
+- Enable two-factor authentication (2FA) wherever possible.
+
+### 💳 UPI / Financial Safety
+- Entering UPI PIN means you are paying money, not receiving it.
+- Do not accept or approve unknown payment requests.
+- Always verify QR codes before scanning them.
+
+### 🚨 Report Cybercrime
+- Report incidents at: https://cybercrime.gov.in
+- Call Cyber Crime Helpline: 1930
+
+---
+
+## 🧠 Reflection
+
+While researching cybercrime, I was most surprised by how easily scammers manipulate people using simple tricks like fake customer care numbers and urgency. I realized that even educated individuals can fall victim if they are not careful. The fact that entering a UPI PIN always means sending money was something I had not fully understood before.
+
+This task made me more aware of digital safety and the importance of verifying information before taking action. One habit I will personally change is avoiding quick decisions during online transactions and always double-checking payment requests and sources. I will also spread awareness among my friends and family so they do not become victims of such scams.

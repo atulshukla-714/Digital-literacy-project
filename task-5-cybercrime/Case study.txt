@@ -1,0 +1,13 @@
+# Task 5 – Cybercrime Awareness Case Study
+
+## Title: UPI Scam Through Fake Customer Support
+
+Rohit, a college student, wanted help regarding a failed online order. He searched for the customer care number on Google and unknowingly called a fake number posted by scammers. The fraudster pretended to be a support executive and gained Rohit’s trust by speaking professionally.
+
+The scammer then asked Rohit to install a screen-sharing app and instructed him to open his UPI app. Step-by-step, the fraudster guided him to “verify” his account, but actually tricked him into approving a payment request. Rohit unknowingly entered his UPI PIN, believing it was for receiving a refund. Instead, ₹15,000 was deducted from his account.
+
+Such scams usually target students, elderly people, and those unfamiliar with digital payments. The criminals exploit urgency, confusion, and trust to manipulate victims.
+
+The consequences include financial loss, emotional stress, and loss of confidence in online systems. In many cases, victims are unable to recover their money if they delay reporting.
+
+This case highlights the importance of verifying sources, never sharing sensitive information, and understanding that entering a UPI PIN always means sending money, not receiving it.
